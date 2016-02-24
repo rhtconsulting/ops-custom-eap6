@@ -4,3 +4,6 @@ echo "Building....."
 
 echo $JBOSS_HOME
 
+
+ echo 'License -  This software is meets the standard set forth by the company and can be used within all deployment environments' >> ${JBOSS_HOME}/ops-license.txt
+
