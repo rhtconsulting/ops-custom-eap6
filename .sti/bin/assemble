@@ -7,5 +7,5 @@ echo $JBOSS_HOME
 
 echo 'License -  This software is meets the standard set forth by the company and can be used within all deployment environments' >> ${JBOSS_HOME}/ops-license.txt
 
-echo 'License' >> ${JBOSS_HOME}/stuff.txt
+echo 'License Version #2' >> ${JBOSS_HOME}/stuff.txt
 
